@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="DCA3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/DCA3.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
